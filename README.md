@@ -1,2 +1,3 @@
 # GTAdapter
-I trust people won't steal my API key when I post here xDDDDD
+This will allow our subteam to still use GitHub Projects after VTBaja moves to trello
+
